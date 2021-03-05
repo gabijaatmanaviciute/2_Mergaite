@@ -2,7 +2,7 @@
 
 Second educational project
 
-##Features:
+## Features:
 * HTML
 * CSS
 
